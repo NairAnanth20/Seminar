@@ -1,2 +1,1 @@
-# Seminar
-This is a demo class
+This is Nair Ananth. Currently pursuing MCA in DDU.
